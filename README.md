@@ -1,4 +1,4 @@
-#**HR - ANALYTICS DASHBOARD****
+## HR - ANALYTICS DASHBOARD
 
 ## Dashboard Link :
  https://app.powerbi.com/links/QrJ7D_obcE?ctid=03cb5f0c-1f82-4993-9621-36330f6309ec&pbi_source=linkShare&bookmarkGuid=2f4a8280-e8eb-4d67-a88e-e491b6153c45
@@ -81,11 +81,11 @@ Step 14 :
 
 Workforce Overview : 
 
-![Dashboard Screenshot](https://github-production-user-asset-6210df.s3.amazonaws.com/168076377/525785141-28024d8f-b1e6-4474-80a1-c02a5effc45f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251212T081745Z&X-Amz-Expires=300&X-Amz-Signature=9217388a925c38525f611e57254bc555731c8f12285b17ed3d027aee07278498&X-Amz-SignedHeaders=host)
+![Dashboard Screenshot](https://github.com/user-attachments/assets/49136c59-0b96-4517-a538-0645d83ad5ae)
 
 Performance and Attribution insights :
 
-![Dashboard Screenshot](https://github-production-user-asset-6210df.s3.amazonaws.com/168076377/525786828-0ecaa700-8104-45e8-a3b1-68c424b1ad9d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251212T082029Z&X-Amz-Expires=300&X-Amz-Signature=7bded060028fe4770d8e1012740f3e0e43bdd6a7fd6cb9997152bf84576ef460&X-Amz-SignedHeaders=host)
+![Dashboard Screenshot](https://github.com/user-attachments/assets/49136c59-0b96-4517-a538-0645d83ad5ae)
 
 Requriment and tranning :
 
