@@ -89,7 +89,7 @@ Performance and Attribution insights :
 
 Requriment and tranning :
 
-![Dashboard Screenshot](https://github.com/user-attachments/assets/49136c59-0b96-4517-a538-0645d83ad5a)
+![Dashboard Screenshot](https://github.com/user-attachments/assets/49136c59-0b96-4517-a538-0645d83ad5ae)
 
 
 ## Insights :
