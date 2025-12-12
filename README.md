@@ -81,15 +81,15 @@ Step 14 :
 
 Workforce Overview : 
 
-![Dashboard Screenshot](https://github.com/user-attachments/assets/49136c59-0b96-4517-a538-0645d83ad5ae)
+![Dashboard Screenshot](https://github.com/user-attachments/assets/bbe93d26-5dd9-4540-b932-f0095c3bc63c)
 
 Performance and Attribution insights :
 
-![Dashboard Screenshot](https://github.com/user-attachments/assets/49136c59-0b96-4517-a538-0645d83ad5ae)
+![Dashboard Screenshot](https://github.com/user-attachments/assets/1bef6db1-a9e6-47df-a709-98c22235a843)
 
 Requriment and tranning :
 
-![Dashboard Screenshot](https://github-production-user-asset-6210df.s3.amazonaws.com/168076377/525787782-bdff07aa-03e3-4a53-bf44-a66393004d79.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251212T082307Z&X-Amz-Expires=300&X-Amz-Signature=7ef4163023bd2021c97958d2f17f5c00d33e0b1f6c873ffbf130b49d312c31d6&X-Amz-SignedHeaders=host)
+![Dashboard Screenshot](https://github.com/user-attachments/assets/49136c59-0b96-4517-a538-0645d83ad5a)
 
 
 ## Insights :
